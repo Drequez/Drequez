@@ -1,17 +1,14 @@
 # Hello, I'm Rod
 <a href="https://www.linkedin.com/in/rodrequez-jones-b3203425b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction ]
 
-I am a cybersecurity student with a passion for computer science and solving complex problems.
+I am a cybersecurity student with a passion for building things and protecting things!
 
 ## Objective
-[Provide Objective ]
 
-My research journey in the information technology field has led me to cybersecurity, and I am now eager to transition into this field. I specifically aim to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Security-focused IT professional with six years of U.S. Army experience supporting secure communications, network operations, and mission-critical systems. Active Secret Clearance, CompTIA Security+ certified, and currently pursuing a Cybersecurity Technical Certificate. Hands-on experience with SIEM tools, Windows and Linux administration, incident response, firewall configuration, and security monitoring through practical home lab projects. Passionate about protecting enterprise systems and supporting secure government environments.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,8 +19,6 @@ My research journey in the information technology field has led me to cybersecur
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -32,18 +27,6 @@ My research journey in the information technology field has led me to cybersecur
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
 
