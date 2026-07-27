@@ -10,22 +10,74 @@ Security-focused IT professional with six years of U.S. Army experience supporti
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill  
 
+Security 
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+Security+ 
+
+SIEM 
+
+Log Analysis 
+
+Incident Response 
+
+Vulnerability Assessment 
+
+Risk Management 
+
+Security Awareness 
+
+ Networking 
+
+TCP/IP 
+
+DNS 
+
+DHCP 
+
+VPN 
+
+Firewalls 
+
+ACLs 
+
+Systems 
+
+Windows Server 
+
+Windows 10/11 
+
+Linux 
+
+Active Directory 
+
+Group Policy 
+
+Powershell 
+
+Cloud 
+
+Azure 
+
+Azure Virtual Machines 
+
+Azure Log Analytics 
+
+Microsoft Sentinel 
+
+Tools 
+
+TryHackMe 
+
+VirtualBox 
+
+GitHub 
+
+Wireshark 
+
+Nmap 
+
 
 
 ## Certifications
