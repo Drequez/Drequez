@@ -6,7 +6,7 @@ I am a cybersecurity student with a passion for building things and protecting t
 
 ## Objective
 
-Security-focused IT professional with six years of U.S. Army experience supporting secure communications, network operations, and mission-critical systems. Active Secret Clearance, CompTIA Security+ certified, and currently pursuing a Cybersecurity Technical Certificate. Hands-on experience with SIEM tools, Windows and Linux administration, incident response, firewall configuration, and security monitoring through practical home lab projects. Passionate about protecting enterprise systems and supporting secure government environments.
+IT professional with six years of U.S. Army experience supporting secure communications, network operations, and mission-critical systems. Active Secret Clearance, CompTIA Security+ certified, and currently pursuing a Cybersecurity Technical Certificate. Hands-on experience with SIEM tools, Windows and Linux administration, incident response, firewall configuration, and security monitoring through practical home lab projects. Passionate about protecting enterprise systems and supporting secure government environments.
 
 ## Skills
 
